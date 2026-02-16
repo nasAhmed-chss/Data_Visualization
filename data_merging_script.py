@@ -1,5 +1,0 @@
-print("Hi")
-print("Hello")
-print("Welcome to the world of Python")
-print("Python is a great language")
-print("Python is a great language")
